@@ -27,5 +27,4 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/110796005/183346036-88f5014d-b548-44e1-86c1-1623c858759d.gif)
 
 
-## Autor
-Igor Amorim Garcês
+
